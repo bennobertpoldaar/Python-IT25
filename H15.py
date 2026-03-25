@@ -55,14 +55,6 @@ def peegelda_porkumisel():
         ring.hideturtle()
         return
 
-punktid = 0
-
-skoor = turtle.Turtle()
-skoor.hideturtle()
-skoor.penup()
-skoor.color("white")
-skoor.goto(0, 260)
-skoor.write("Punktid: 0", align="center", font=("Arial", 20, "normal"))
 
 
 def ring_liigu():

@@ -1,0 +1,704 @@
+{
+    "uritused": [
+        {
+            "urituse_id": 201,
+            "nimetus": "Üritus_1",
+            "koht": "Tartu",
+            "kuupäev": "2025-07-03",
+            "kellaaeg": "12:00"
+        },
+        {
+            "urituse_id": 202,
+            "nimetus": "Üritus_2",
+            "koht": "Tallinn",
+            "kuupäev": "2026-02-17",
+            "kellaaeg": "13:00"
+        },
+        {
+            "urituse_id": 203,
+            "nimetus": "Üritus_3",
+            "koht": "Pärnu",
+            "kuupäev": "2025-10-07",
+            "kellaaeg": "10:00"
+        },
+        {
+            "urituse_id": 204,
+            "nimetus": "Üritus_4",
+            "koht": "Narva",
+            "kuupäev": "2026-03-04",
+            "kellaaeg": "9:30"
+        },
+        {
+            "urituse_id": 205,
+            "nimetus": "Üritus_5",
+            "koht": "Tallinn",
+            "kuupäev": "2026-03-06",
+            "kellaaeg": "15:30"
+        },
+        {
+            "urituse_id": 206,
+            "nimetus": "Üritus_6",
+            "koht": "Narva",
+            "kuupäev": "2025-04-16",
+            "kellaaeg": "9:30"
+        },
+        {
+            "urituse_id": 207,
+            "nimetus": "Üritus_7",
+            "koht": "Narva",
+            "kuupäev": "2025-12-09",
+            "kellaaeg": "14:00"
+        },
+        {
+            "urituse_id": 208,
+            "nimetus": "Üritus_8",
+            "koht": "Tartu",
+            "kuupäev": "2025-08-11",
+            "kellaaeg": "8:30"
+        },
+        {
+            "urituse_id": 209,
+            "nimetus": "Üritus_9",
+            "koht": "Narva",
+            "kuupäev": "2025-10-27",
+            "kellaaeg": "19:00"
+        },
+        {
+            "urituse_id": 210,
+            "nimetus": "Üritus_10",
+            "koht": "Narva",
+            "kuupäev": "2025-06-29",
+            "kellaaeg": "16:00"
+        },
+        {
+            "urituse_id": 211,
+            "nimetus": "Üritus_11",
+            "koht": "Narva",
+            "kuupäev": "2025-12-31",
+            "kellaaeg": "19:30"
+        },
+        {
+            "urituse_id": 212,
+            "nimetus": "Üritus_12",
+            "koht": "Tartu",
+            "kuupäev": "2026-02-19",
+            "kellaaeg": "10:00"
+        },
+        {
+            "urituse_id": 213,
+            "nimetus": "Üritus_13",
+            "koht": "Tallinn",
+            "kuupäev": "2025-08-04",
+            "kellaaeg": "18:30"
+        },
+        {
+            "urituse_id": 214,
+            "nimetus": "Üritus_14",
+            "koht": "Narva",
+            "kuupäev": "2026-03-01",
+            "kellaaeg": "22:00"
+        },
+        {
+            "urituse_id": 215,
+            "nimetus": "Üritus_15",
+            "koht": "Tallinn",
+            "kuupäev": "2025-11-15",
+            "kellaaeg": "22:00"
+        },
+        {
+            "urituse_id": 216,
+            "nimetus": "Üritus_16",
+            "koht": "Tallinn",
+            "kuupäev": "2025-08-01",
+            "kellaaeg": "18:30"
+        },
+        {
+            "urituse_id": 217,
+            "nimetus": "Üritus_17",
+            "koht": "Narva",
+            "kuupäev": "2025-08-05",
+            "kellaaeg": "22:00"
+        },
+        {
+            "urituse_id": 218,
+            "nimetus": "Üritus_18",
+            "koht": "Pärnu",
+            "kuupäev": "2025-04-15",
+            "kellaaeg": "17:30"
+        },
+        {
+            "urituse_id": 219,
+            "nimetus": "Üritus_19",
+            "koht": "Narva",
+            "kuupäev": "2025-07-30",
+            "kellaaeg": "19:00"
+        },
+        {
+            "urituse_id": 220,
+            "nimetus": "Üritus_20",
+            "koht": "Tallinn",
+            "kuupäev": "2025-03-31",
+            "kellaaeg": "22:00"
+        },
+        {
+            "urituse_id": 221,
+            "nimetus": "Üritus_21",
+            "koht": "Narva",
+            "kuupäev": "2025-08-15",
+            "kellaaeg": "17:30"
+        },
+        {
+            "urituse_id": 222,
+            "nimetus": "Üritus_22",
+            "koht": "Rakvere",
+            "kuupäev": "2025-11-26",
+            "kellaaeg": "18:30"
+        },
+        {
+            "urituse_id": 223,
+            "nimetus": "Üritus_23",
+            "koht": "Tallinn",
+            "kuupäev": "2025-05-19",
+            "kellaaeg": "22:30"
+        },
+        {
+            "urituse_id": 224,
+            "nimetus": "Üritus_24",
+            "koht": "Rakvere",
+            "kuupäev": "2025-11-29",
+            "kellaaeg": "12:30"
+        },
+        {
+            "urituse_id": 225,
+            "nimetus": "Üritus_25",
+            "koht": "Rakvere",
+            "kuupäev": "2025-10-25",
+            "kellaaeg": "11:30"
+        },
+        {
+            "urituse_id": 226,
+            "nimetus": "Üritus_26",
+            "koht": "Tartu",
+            "kuupäev": "2025-11-04",
+            "kellaaeg": "19:00"
+        },
+        {
+            "urituse_id": 227,
+            "nimetus": "Üritus_27",
+            "koht": "Tallinn",
+            "kuupäev": "2026-03-07",
+            "kellaaeg": "17:30"
+        },
+        {
+            "urituse_id": 228,
+            "nimetus": "Üritus_28",
+            "koht": "Tallinn",
+            "kuupäev": "2025-07-07",
+            "kellaaeg": "17:00"
+        },
+        {
+            "urituse_id": 229,
+            "nimetus": "Üritus_29",
+            "koht": "Tartu",
+            "kuupäev": "2025-06-19",
+            "kellaaeg": "17:00"
+        },
+        {
+            "urituse_id": 230,
+            "nimetus": "Üritus_30",
+            "koht": "Pärnu",
+            "kuupäev": "2025-06-20",
+            "kellaaeg": "11:30"
+        },
+        {
+            "urituse_id": 231,
+            "nimetus": "Üritus_31",
+            "koht": "Pärnu",
+            "kuupäev": "2025-05-28",
+            "kellaaeg": "17:00"
+        },
+        {
+            "urituse_id": 232,
+            "nimetus": "Üritus_32",
+            "koht": "Rakvere",
+            "kuupäev": "2025-11-29",
+            "kellaaeg": "10:30"
+        },
+        {
+            "urituse_id": 233,
+            "nimetus": "Üritus_33",
+            "koht": "Pärnu",
+            "kuupäev": "2025-12-04",
+            "kellaaeg": "12:00"
+        },
+        {
+            "urituse_id": 234,
+            "nimetus": "Üritus_34",
+            "koht": "Tartu",
+            "kuupäev": "2025-07-04",
+            "kellaaeg": "17:00"
+        },
+        {
+            "urituse_id": 235,
+            "nimetus": "Üritus_35",
+            "koht": "Tartu",
+            "kuupäev": "2025-03-19",
+            "kellaaeg": "9:30"
+        },
+        {
+            "urituse_id": 236,
+            "nimetus": "Üritus_36",
+            "koht": "Pärnu",
+            "kuupäev": "2025-06-11",
+            "kellaaeg": "13:00"
+        },
+        {
+            "urituse_id": 237,
+            "nimetus": "Üritus_37",
+            "koht": "Tartu",
+            "kuupäev": "2025-12-07",
+            "kellaaeg": "10:30"
+        },
+        {
+            "urituse_id": 238,
+            "nimetus": "Üritus_38",
+            "koht": "Rakvere",
+            "kuupäev": "2025-11-01",
+            "kellaaeg": "12:30"
+        },
+        {
+            "urituse_id": 239,
+            "nimetus": "Üritus_39",
+            "koht": "Pärnu",
+            "kuupäev": "2026-02-20",
+            "kellaaeg": "8:30"
+        },
+        {
+            "urituse_id": 240,
+            "nimetus": "Üritus_40",
+            "koht": "Narva",
+            "kuupäev": "2025-05-25",
+            "kellaaeg": "12:30"
+        },
+        {
+            "urituse_id": 241,
+            "nimetus": "Üritus_41",
+            "koht": "Pärnu",
+            "kuupäev": "2025-10-05",
+            "kellaaeg": "8:30"
+        },
+        {
+            "urituse_id": 242,
+            "nimetus": "Üritus_42",
+            "koht": "Tallinn",
+            "kuupäev": "2025-07-23",
+            "kellaaeg": "8:30"
+        },
+        {
+            "urituse_id": 243,
+            "nimetus": "Üritus_43",
+            "koht": "Tallinn",
+            "kuupäev": "2025-10-24",
+            "kellaaeg": "9:30"
+        },
+        {
+            "urituse_id": 244,
+            "nimetus": "Üritus_44",
+            "koht": "Pärnu",
+            "kuupäev": "2025-06-12",
+            "kellaaeg": "11:30"
+        },
+        {
+            "urituse_id": 245,
+            "nimetus": "Üritus_45",
+            "koht": "Pärnu",
+            "kuupäev": "2026-01-11",
+            "kellaaeg": "12:00"
+        },
+        {
+            "urituse_id": 246,
+            "nimetus": "Üritus_46",
+            "koht": "Pärnu",
+            "kuupäev": "2025-05-24",
+            "kellaaeg": "13:30"
+        },
+        {
+            "urituse_id": 247,
+            "nimetus": "Üritus_47",
+            "koht": "Tallinn",
+            "kuupäev": "2025-05-24",
+            "kellaaeg": "16:30"
+        },
+        {
+            "urituse_id": 248,
+            "nimetus": "Üritus_48",
+            "koht": "Tallinn",
+            "kuupäev": "2025-08-15",
+            "kellaaeg": "22:30"
+        },
+        {
+            "urituse_id": 249,
+            "nimetus": "Üritus_49",
+            "koht": "Rakvere",
+            "kuupäev": "2025-04-10",
+            "kellaaeg": "9:30"
+        },
+        {
+            "urituse_id": 250,
+            "nimetus": "Üritus_50",
+            "koht": "Tallinn",
+            "kuupäev": "2025-08-21",
+            "kellaaeg": "10:30"
+        },
+        {
+            "urituse_id": 251,
+            "nimetus": "Üritus_51",
+            "koht": "Narva",
+            "kuupäev": "2025-08-02",
+            "kellaaeg": "18:00"
+        },
+        {
+            "urituse_id": 252,
+            "nimetus": "Üritus_52",
+            "koht": "Pärnu",
+            "kuupäev": "2025-10-03",
+            "kellaaeg": "12:30"
+        },
+        {
+            "urituse_id": 253,
+            "nimetus": "Üritus_53",
+            "koht": "Narva",
+            "kuupäev": "2025-10-23",
+            "kellaaeg": "18:30"
+        },
+        {
+            "urituse_id": 254,
+            "nimetus": "Üritus_54",
+            "koht": "Tartu",
+            "kuupäev": "2025-10-26",
+            "kellaaeg": "18:00"
+        },
+        {
+            "urituse_id": 255,
+            "nimetus": "Üritus_55",
+            "koht": "Narva",
+            "kuupäev": "2025-08-14",
+            "kellaaeg": "15:30"
+        },
+        {
+            "urituse_id": 256,
+            "nimetus": "Üritus_56",
+            "koht": "Tallinn",
+            "kuupäev": "2025-10-12",
+            "kellaaeg": "18:30"
+        },
+        {
+            "urituse_id": 257,
+            "nimetus": "Üritus_57",
+            "koht": "Tartu",
+            "kuupäev": "2025-05-20",
+            "kellaaeg": "18:30"
+        },
+        {
+            "urituse_id": 258,
+            "nimetus": "Üritus_58",
+            "koht": "Pärnu",
+            "kuupäev": "2025-09-10",
+            "kellaaeg": "13:00"
+        },
+        {
+            "urituse_id": 259,
+            "nimetus": "Üritus_59",
+            "koht": "Rakvere",
+            "kuupäev": "2025-07-04",
+            "kellaaeg": "12:30"
+        },
+        {
+            "urituse_id": 260,
+            "nimetus": "Üritus_60",
+            "koht": "Rakvere",
+            "kuupäev": "2025-05-14",
+            "kellaaeg": "15:30"
+        },
+        {
+            "urituse_id": 261,
+            "nimetus": "Üritus_61",
+            "koht": "Narva",
+            "kuupäev": "2025-05-12",
+            "kellaaeg": "20:30"
+        },
+        {
+            "urituse_id": 262,
+            "nimetus": "Üritus_62",
+            "koht": "Tallinn",
+            "kuupäev": "2025-12-13",
+            "kellaaeg": "18:00"
+        },
+        {
+            "urituse_id": 263,
+            "nimetus": "Üritus_63",
+            "koht": "Tartu",
+            "kuupäev": "2025-10-21",
+            "kellaaeg": "22:00"
+        },
+        {
+            "urituse_id": 264,
+            "nimetus": "Üritus_64",
+            "koht": "Rakvere",
+            "kuupäev": "2025-04-07",
+            "kellaaeg": "20:00"
+        },
+        {
+            "urituse_id": 265,
+            "nimetus": "Üritus_65",
+            "koht": "Rakvere",
+            "kuupäev": "2025-12-29",
+            "kellaaeg": "10:00"
+        },
+        {
+            "urituse_id": 266,
+            "nimetus": "Üritus_66",
+            "koht": "Pärnu",
+            "kuupäev": "2025-03-19",
+            "kellaaeg": "8:30"
+        },
+        {
+            "urituse_id": 267,
+            "nimetus": "Üritus_67",
+            "koht": "Pärnu",
+            "kuupäev": "2025-10-04",
+            "kellaaeg": "18:00"
+        },
+        {
+            "urituse_id": 268,
+            "nimetus": "Üritus_68",
+            "koht": "Pärnu",
+            "kuupäev": "2025-10-05",
+            "kellaaeg": "10:00"
+        },
+        {
+            "urituse_id": 269,
+            "nimetus": "Üritus_69",
+            "koht": "Narva",
+            "kuupäev": "2025-10-24",
+            "kellaaeg": "18:30"
+        },
+        {
+            "urituse_id": 270,
+            "nimetus": "Üritus_70",
+            "koht": "Tartu",
+            "kuupäev": "2025-12-18",
+            "kellaaeg": "13:00"
+        },
+        {
+            "urituse_id": 271,
+            "nimetus": "Üritus_71",
+            "koht": "Rakvere",
+            "kuupäev": "2025-06-27",
+            "kellaaeg": "21:30"
+        },
+        {
+            "urituse_id": 272,
+            "nimetus": "Üritus_72",
+            "koht": "Pärnu",
+            "kuupäev": "2025-08-01",
+            "kellaaeg": "15:30"
+        },
+        {
+            "urituse_id": 273,
+            "nimetus": "Üritus_73",
+            "koht": "Tallinn",
+            "kuupäev": "2025-06-12",
+            "kellaaeg": "10:30"
+        },
+        {
+            "urituse_id": 274,
+            "nimetus": "Üritus_74",
+            "koht": "Narva",
+            "kuupäev": "2025-11-21",
+            "kellaaeg": "22:30"
+        },
+        {
+            "urituse_id": 275,
+            "nimetus": "Üritus_75",
+            "koht": "Rakvere",
+            "kuupäev": "2025-06-19",
+            "kellaaeg": "8:00"
+        },
+        {
+            "urituse_id": 276,
+            "nimetus": "Üritus_76",
+            "koht": "Narva",
+            "kuupäev": "2025-04-12",
+            "kellaaeg": "20:00"
+        },
+        {
+            "urituse_id": 277,
+            "nimetus": "Üritus_77",
+            "koht": "Tallinn",
+            "kuupäev": "2025-04-13",
+            "kellaaeg": "16:00"
+        },
+        {
+            "urituse_id": 278,
+            "nimetus": "Üritus_78",
+            "koht": "Rakvere",
+            "kuupäev": "2025-09-28",
+            "kellaaeg": "10:00"
+        },
+        {
+            "urituse_id": 279,
+            "nimetus": "Üritus_79",
+            "koht": "Tartu",
+            "kuupäev": "2025-12-01",
+            "kellaaeg": "15:00"
+        },
+        {
+            "urituse_id": 280,
+            "nimetus": "Üritus_80",
+            "koht": "Tallinn",
+            "kuupäev": "2025-09-11",
+            "kellaaeg": "15:30"
+        },
+        {
+            "urituse_id": 281,
+            "nimetus": "Üritus_81",
+            "koht": "Narva",
+            "kuupäev": "2025-06-20",
+            "kellaaeg": "20:00"
+        },
+        {
+            "urituse_id": 282,
+            "nimetus": "Üritus_82",
+            "koht": "Tallinn",
+            "kuupäev": "2025-08-15",
+            "kellaaeg": "11:30"
+        },
+        {
+            "urituse_id": 283,
+            "nimetus": "Üritus_83",
+            "koht": "Pärnu",
+            "kuupäev": "2025-10-24",
+            "kellaaeg": "19:00"
+        },
+        {
+            "urituse_id": 284,
+            "nimetus": "Üritus_84",
+            "koht": "Rakvere",
+            "kuupäev": "2026-02-13",
+            "kellaaeg": "15:30"
+        },
+        {
+            "urituse_id": 285,
+            "nimetus": "Üritus_85",
+            "koht": "Tartu",
+            "kuupäev": "2025-11-29",
+            "kellaaeg": "17:30"
+        },
+        {
+            "urituse_id": 286,
+            "nimetus": "Üritus_86",
+            "koht": "Tallinn",
+            "kuupäev": "2026-01-06",
+            "kellaaeg": "18:00"
+        },
+        {
+            "urituse_id": 287,
+            "nimetus": "Üritus_87",
+            "koht": "Tallinn",
+            "kuupäev": "2025-05-17",
+            "kellaaeg": "8:00"
+        },
+        {
+            "urituse_id": 288,
+            "nimetus": "Üritus_88",
+            "koht": "Narva",
+            "kuupäev": "2025-08-21",
+            "kellaaeg": "19:00"
+        },
+        {
+            "urituse_id": 289,
+            "nimetus": "Üritus_89",
+            "koht": "Narva",
+            "kuupäev": "2025-12-07",
+            "kellaaeg": "19:00"
+        },
+        {
+            "urituse_id": 290,
+            "nimetus": "Üritus_90",
+            "koht": "Tartu",
+            "kuupäev": "2025-11-09",
+            "kellaaeg": "22:30"
+        },
+        {
+            "urituse_id": 291,
+            "nimetus": "Üritus_91",
+            "koht": "Tartu",
+            "kuupäev": "2025-09-26",
+            "kellaaeg": "18:00"
+        },
+        {
+            "urituse_id": 292,
+            "nimetus": "Üritus_92",
+            "koht": "Narva",
+            "kuupäev": "2025-11-08",
+            "kellaaeg": "22:30"
+        },
+        {
+            "urituse_id": 293,
+            "nimetus": "Üritus_93",
+            "koht": "Rakvere",
+            "kuupäev": "2026-01-04",
+            "kellaaeg": "19:00"
+        },
+        {
+            "urituse_id": 294,
+            "nimetus": "Üritus_94",
+            "koht": "Tartu",
+            "kuupäev": "2025-05-15",
+            "kellaaeg": "18:00"
+        },
+        {
+            "urituse_id": 295,
+            "nimetus": "Üritus_95",
+            "koht": "Pärnu",
+            "kuupäev": "2025-11-17",
+            "kellaaeg": "17:30"
+        },
+        {
+            "urituse_id": 296,
+            "nimetus": "Üritus_96",
+            "koht": "Rakvere",
+            "kuupäev": "2025-06-09",
+            "kellaaeg": "13:30"
+        },
+        {
+            "urituse_id": 297,
+            "nimetus": "Üritus_97",
+            "koht": "Rakvere",
+            "kuupäev": "2025-08-22",
+            "kellaaeg": "17:00"
+        },
+        {
+            "urituse_id": 298,
+            "nimetus": "Üritus_98",
+            "koht": "Narva",
+            "kuupäev": "2025-04-30",
+            "kellaaeg": "16:30"
+        },
+        {
+            "urituse_id": 299,
+            "nimetus": "Üritus_99",
+            "koht": "Tartu",
+            "kuupäev": "2025-05-12",
+            "kellaaeg": "11:30"
+        },
+        {
+            "urituse_id": 300,
+            "nimetus": "Üritus_100",
+            "koht": "Tallinn",
+            "kuupäev": "2025-09-04",
+            "kellaaeg": "16:00"
+        }
+    ]
+}
